@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Andriod Training</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Name</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="welcome">Welcome</string>
+    <string name="home">Home</string>
+    <string name="addData">Add Data</string>
+    <string name="title_activity_people_results">PeopleResultsActivity</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+</resources>

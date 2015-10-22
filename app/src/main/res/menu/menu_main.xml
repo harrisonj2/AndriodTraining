@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/menu_home"
+            android:orderInCategory="1"
+            app:showAsAction="never"
+            android:title="@string/home"/>
+        <item android:id="@+id/menu_welcome"
+            android:orderInCategory="2"
+            app:showAsAction="never"
+            android:title="@string/welcome"/>
+    </group>
+</menu>
